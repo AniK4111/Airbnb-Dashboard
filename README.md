@@ -24,6 +24,19 @@ Built an interactive Tableau dashboard to analyze the Airbnb data extracted from
 - Plotly
 - Tableau
 
+
+**Installation**
+
+To run this project, you need to install the following packages:
+
+```python
+pip install pandas
+pip install pymongo
+pip install psycopg2
+pip install streamlit
+pip install plotly
+
+
 **Usage**
 
 To use this project, follow these steps:
@@ -87,13 +100,4 @@ Contributions to this project are welcome! If you encounter any issues or have s
 🌐 LinkedIn: [linkedin.com/in/gopiashokan](https://www.linkedin.com/in/gopiashokan)
 
 
-**Installation**
 
-To run this project, you need to install the following packages:
-
-```python
-pip install pandas
-pip install pymongo
-pip install psycopg2
-pip install streamlit
-pip install plotly
