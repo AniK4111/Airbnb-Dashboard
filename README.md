@@ -98,7 +98,7 @@ Contributions to this project are welcome! If you encounter any issues or have s
 
 📧 Email: anitaverma4111@gmail.com 
 
-🌐 LinkedIn: [linkedin.com/in/gopiashokan](https://www.linkedin.com/in/gopiashokan)
+🌐 LinkedIn: (https://www.linkedin.com/in/anita-kumari-a2a5b1184/)
 
 
 
